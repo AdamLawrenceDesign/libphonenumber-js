@@ -1,5 +1,6 @@
-## Install libphonenumber with bower
+## Install libphonenumber-js with bower
+https://github.com/halt-hammerzeit/libphonenumber-js
 https://github.com/googlei18n/libphonenumber
 ```
-bower install https://github.com/deliriousrhino/libphonenumber-bower.git
+bower install https://github.com/tiltandco/libphonenumber-js.git
 ```
